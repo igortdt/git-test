@@ -32,3 +32,16 @@
 
 ## Ver logs de commits
     git log
+
+## Criar uma ramificacao
+    git checkout -b feature/nova-func    
+
+## Alterar ramificacao/branch
+    git checkout master -- onde master é o nome da branch
+
+## Sincronizar projeto online com o reopsitorio local com 
+    git pull
+
+## Sincronizar branch atual com a master
+    git merge master    
+
